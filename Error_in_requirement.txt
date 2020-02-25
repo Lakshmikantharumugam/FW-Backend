@@ -1,0 +1,1 @@
+I read through the requirement and it says that key should be able to set a Time to Live property in the in the file based key value data store but reading or deleting a 3rd property is not possible as we will be having only key and value. So if you can correct the requirement or if I had understood it wrong please let me know.
